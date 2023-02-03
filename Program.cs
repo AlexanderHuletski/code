@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Hello, World!");
+﻿var word = "Hello,world!";
+
+Console.WriteLine(word);
